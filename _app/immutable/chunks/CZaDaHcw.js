@@ -1,1 +1,0 @@
-import"./CWj6FrbW.js";import{p,n as i,o as m,q as n,$ as r}from"./C_lN9sUR.js";import{p as s}from"./CVz4mlx2.js";import{c as o}from"./Drjb4CcT.js";function h(c,t){p(t,!0);let e=s(t,"title",3,void 0);const a=e()?`${e()} - ${o()}`:o();i(f=>{n(()=>r.title=a)}),m()}export{h as P};
