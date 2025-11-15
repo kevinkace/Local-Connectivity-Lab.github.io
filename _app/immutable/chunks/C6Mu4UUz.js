@@ -1,0 +1,1 @@
+import{g as a}from"./DxIaorys.js";const n=()=>"Donate",p=(t={},e={})=>(e.locale??a(),n()),o=()=>"Make a Donation",_=(t={},e={})=>(e.locale??a(),o()),r=()=>"We appreciate your support of our mission!",u=(t={},e={})=>(e.locale??a(),r());export{_ as a,u as b,p};
