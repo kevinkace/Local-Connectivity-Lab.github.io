@@ -1,0 +1,1 @@
+var a;const t=((a=globalThis.__sveltekit_8zaaag)==null?void 0:a.base)??"/Local-Connectivity-Lab.github.io";var s;const e=((s=globalThis.__sveltekit_8zaaag)==null?void 0:s.assets)??t??"";export{e as a,t as b};
